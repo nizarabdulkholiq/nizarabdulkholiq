@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **University of Logistics and Business International (ULBI)**
 
-- 🌱 I’m currently learning **Node JS, and Docker**
+- 🌱 I’m currently learning **Laravel, Java and Docker**
 
 - 👯 I’m looking to collaborate on **Human Resource and Payroll App Development**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kholiqnnabdul@gmail.com**
 
-- ⚡ Fun fact **I am Gamers**
+- ⚡ my portfolio **(https://nizarabdulkholiq.github.io/Portfolio-Website/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
